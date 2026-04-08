@@ -51,6 +51,7 @@
     <property name="java.specification.maintenance.version" value="1"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
+    
   </properties>
   <testcase name="shouldAnswerWithTrue" classname="com.mycompany.app.AppTest" time="0.015"/>
 </testsuite>
